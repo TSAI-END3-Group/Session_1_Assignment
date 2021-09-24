@@ -24,11 +24,11 @@ While training this Neural Network for the X-OR gate, we observed that using MSE
 We also tried training a basic Neural Network model in excel for different learning rates to see how the loss varies w.r.t the learning rates. Please find the below the link for the excel file with the Loss values and Error charts for different Learning rates. [Link](https://github.com/TSAI-END3-Group/Session_1_Assignment/blob/main/Simple_NN_ForwardProp_Backpropagation.xlsx)
 
 ## Assignment Questions:
-- [Question-1](#question-1)
-- [Question-2](#question-2)
-- [Question-3](#question-3)
-- [Question-4](#question-4)
-- [Question-5](#question-5)
+- [Question-1 Neurons](#question-1)
+- [Question-2 Learning Rates](#question-2)
+- [Question-3 Weights Initialisation](#question-3)
+- [Question-4 Loss in NN](#question-4)
+- [Question-5 Chain Rule Gradient Flow](#question-5)
 
 Neural Networks are comprised of a node layers, containing an input layer, one or more hidden layers, and an output layer. Each node, or artificial neuron, connects to another and has an associated weight and threshold. If the output of any individual node is above the specified threshold value, that node is activated, sending data to the next layer of the network. Otherwise, no data is passed along to the next layer of the network.
 
