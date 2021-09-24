@@ -20,6 +20,8 @@ While training this Neural Network for the X-OR gate, we observed that using MSE
 `#params = 4*1+1(bias) = 5 Parameters`
 ```Total Parameters = 15+24+5 = 44```
 
+**NOTE**
+We also tried training a basic Neural Network model in excel for different learning rates to see how the loss varies w.r.t the learning rates. Please find the below the link for the excel file with the Loss values and Error charts for different Learning rates. [Link](https://github.com/TSAI-END3-Group/Session_1_Assignment/blob/main/Simple_NN_ForwardProp_Backpropagation.xlsx)
 
 ## Assignment Questions:
 - [Question-1](#question-1)
